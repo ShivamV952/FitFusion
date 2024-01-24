@@ -1,4 +1,4 @@
-# Fitness-App-React-Native
+# PowerPulse Fitness Fusion
 ## Get Started
 
 install dev dependencies
